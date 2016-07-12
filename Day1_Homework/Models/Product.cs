@@ -8,7 +8,7 @@ namespace Day1_Homework.Models
 {
     public class Product
     {
-        public string Id { get; set; }
+        public int Id { get; set; }
 
         public int Cost { get; set; }
 

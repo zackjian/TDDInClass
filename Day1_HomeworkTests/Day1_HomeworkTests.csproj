@@ -51,8 +51,9 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="ProductSumCalculatorTests_v2.cs" />
+    <Compile Include="ProductSumCalculatorTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TheProductTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Day1_Homework\Day1_Homework.csproj">
